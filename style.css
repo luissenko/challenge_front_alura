@@ -1,0 +1,20 @@
+body {
+    background-color: #051D3B;
+}
+
+header {
+    width: 1376px;
+    height: 56px;
+    background-color: aquamarine;
+    margin: 32px 32px;
+    position: absolute;
+}
+
+.logo {
+    width: 145px;
+    height: 34.05px;
+}
+
+.search {
+    
+}
